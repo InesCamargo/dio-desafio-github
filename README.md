@@ -16,3 +16,5 @@ Repositório para armazenar resumos sobre Git GitHub - Bootcamp-Santander-2025II
 ## 🔍 Referências
 
 - [Digital Innovation One]
+
+- **I know this is very coll**
