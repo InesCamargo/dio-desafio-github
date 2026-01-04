@@ -1,3 +1,4 @@
+
 # DIO | Resumos Git e GitHub
 
 Repositório para armazenar resumos sobre Git GitHub - Bootcamp-Santander-2025II
@@ -17,4 +18,4 @@ Repositório para armazenar resumos sobre Git GitHub - Bootcamp-Santander-2025II
 
 - [Digital Innovation One]
 
-- **I know this is very coll**
+
